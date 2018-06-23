@@ -15,3 +15,7 @@
 ### ActivityDiagram_CalculationEngineFlow
 
 ![ActivityDiagram_CalculationEngineFlow](./ActivityDiagram_CalculationEngineFlow.PNG)
+
+### ActivityDiagram_DisplayMetricOnAndroidApplication
+
+![ActivityDiagram_DisplayMetricOnAndroidApplication](./ActivityDiagram_DisplayMetricOnAndroidApplication.png)
